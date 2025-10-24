@@ -1,16 +1,19 @@
-## Hi there 👋
+# Olá! Eu sou o Vagner Bruno 👋
 
-<!--
-**vagner99brrj/vagner99brrj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou **Estagiário Backend** na empresa JUDIT, com foco em desenvolvimento de APIs robustas e seguras usando **Node.js**. Sou apaixonado por resolver problemas e garantir a integridade dos dados.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Vagner's GitHub stats](https://github-readme-stats.vercel.app/api?username=vagner99brrj&show_icons=true&theme=default&hide_border=true&count_private=true)](https://github.com/vagner99brrj)
+
+| :--- | :--- |
+| **Backend** | `Node.js` (Express), `JavaScript`, APIs REST |
+| **Bancos de Dados** | `MongoDB` (Mongoose), `PostgreSQL`/SQL, Transações ACID |
+| **Ferramentas/DevOps** | `Git`, `GitHub`, `Docker` (Básico), Estrutura de Código Limpo |
+| **Foco em Segurança** | Implementação de JWT, Hashing de Senhas |
+
+## 📫 Conecte-se Comigo
+
+| Rede Social | Link |
+| :--- | :--- |
+| **LinkedIn** | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vagner-bruno-santos-oliveira99/) |
+| **Email** | [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vagnerbruno0699@gmail.com) |
