@@ -5,7 +5,7 @@ Sou **Estagiário Backend** na empresa JUDIT, com foco em desenvolvimento de API
 
 [![Vagner's GitHub stats](https://github-readme-stats.vercel.app/api?username=vagner99brrj&show_icons=true&theme=default&hide_border=true&count_private=true)](https://github.com/vagner99brrj)
 
-| :--- | :--- |
+
 | **Backend** | `Node.js` (Express), `JavaScript`, APIs REST |
 | **Bancos de Dados** | `MongoDB` (Mongoose), `PostgreSQL`/SQL, Transações ACID |
 | **Ferramentas/DevOps** | `Git`, `GitHub`, `Docker` (Básico), Estrutura de Código Limpo |
