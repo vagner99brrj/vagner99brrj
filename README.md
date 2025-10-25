@@ -1,6 +1,6 @@
 # Olá! Eu sou o Vagner Bruno  🤙🏿
 
-Sou **Estagiário Backend** na empresa JUDIT, com foco em desenvolvimento de APIs robustas e seguras usando **Node.js**. Sou apaixonado por resolver problemas e garantir a integridade dos dados.
+Sou **Estagiário Backend** na empresa JUDIT, com foco em desenvolvimento de APIs **Node.js**.
 
 
 ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=vagner99brrj&layout=compact&theme=radical)
