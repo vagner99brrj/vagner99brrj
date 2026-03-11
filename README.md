@@ -2,13 +2,10 @@
 
 Atualmente atuo como **Estagiário Backend** na [JUDIT](https://judit.io/), onde meu foco é o desenvolvimento de APIs com **Node.js**.
 
-
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=vagner99brrj&layout=compact&theme=radical)
-
-💻 **Backend:** Node.js (Express), APIs REST  
-🗄️ **Bancos de Dados:** MongoDB (Mongoose), PostgreSQL/SQL  
-🛠️ **Ferramentas:** Git, GitHub, Docker (Básico), Boas Práticas de Código  
-🔒 **Segurança:** Implementação de JWT, Hashing de Senhas
+💻 **Backend:** JavaScript   
+🗄️ **Bancos de Dados:** MongoDB (Mongoose)  
+🛠️ **Ferramentas:** GitHub, Burp   
+🔒 **Segurança:** AWF 
 ## 📫 Conecte-se Comigo
 
 | Rede Social | Link |
