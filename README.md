@@ -1,10 +1,13 @@
 # Olá! Eu sou o Vagner Bruno 👋🏿
+
 Atualmente atuo como **Estagiário Backend** na [JUDIT](https://judit.io/), focado no desenvolvimento de APIs escaláveis e integração de dados. Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** no Senac Rio.
 
 ---
 
 ### 🚀 Sobre mim
 - 🎓 Cursando **ADS** no Senac Rio (Módulo 1).
+
+---
 
 ### 🛠️ Tech Stack
 
@@ -18,10 +21,26 @@ Atualmente atuo como **Estagiário Backend** na [JUDIT](https://judit.io/), foca
 
 ---
 
+### 📊 Estatísticas do GitHub
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats-kappa-ten-10.vercel.app/api?username=vagner99brrj&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  
+  <img height="180em" src="https://github-readme-stats-kappa-ten-10.vercel.app/api/top-langs/?username=vagner99brrj&layout=compact&langs_count=7&theme=dracula"/>
+</p>
+
+---
+
 ### 📫 Conecte-se Comigo
+
 <p align="left">
-<a href="https://www.linkedin.com/in/vagner-bruno-santos-oliveira99/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-<a href="mailto:vagnerbruno0699@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/vagner-bruno-santos-oliveira99/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a> 
+
+<a href="mailto:vagnerbruno0699@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
 </p>
 
 ---
