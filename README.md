@@ -23,11 +23,7 @@ Atualmente atuo como **Estagiário Backend** na [JUDIT](https://judit.io/), foca
 
 ### 📊 Estatísticas do GitHub
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats-kappa-ten-10.vercel.app/api?username=vagner99brrj&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  
-  <img height="180em" src="https://github-readme-stats-kappa-ten-10.vercel.app/api/top-langs/?username=vagner99brrj&layout=compact&langs_count=7&theme=dracula"/>
-</p>
+<img height="180em" src="https://github-readme-stats-kappa-ten-10.vercel.app/api/top-langs/?username=vagner99brrj&layout=compact&theme=dracula" />
 
 ---
 
