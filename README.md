@@ -18,13 +18,6 @@ Atualmente atuo como **Estagiário Backend** na [JUDIT](https://judit.io/), foca
 
 ---
 
-### 📊 Estatísticas do GitHub
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=vagner99brrj&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vagner99brrj&layout=compact&langs_count=7&theme=dracula"/>
-
----
-
 ### 📫 Conecte-se Comigo
 <p align="left">
 <a href="https://www.linkedin.com/in/vagner-bruno-santos-oliveira99/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
